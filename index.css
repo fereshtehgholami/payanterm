@@ -1,0 +1,101 @@
+.General{ 
+    margin: 75px auto 75px auto;
+    width: 700px;
+    height: 450px;
+    position: relative;
+    border-radius: 20px;
+    
+    
+
+}
+.one{
+    background-color: rgb(238, 148, 31);
+    position: absolute;
+    text-align: center;
+    width: 233px;
+    right: 466px;
+    
+    height: 450px;
+    color: white;
+    text-align: left;
+    
+}
+.one-button{
+    background-color: rgb(238, 148, 31);
+    border-radius: 40%;
+    height: 50px;
+    width: 170px;
+    border-color: white;
+    color: white;
+
+
+}
+.one-button:hover{
+    background-color: white;
+    color: rgb(238, 148, 31) ;
+}
+.two{
+    background-color: rgb(15, 98, 112);    
+    text-align: center;
+    width: 233px;
+    position: absolute;
+    right: 233px;
+    left: 233px;
+    height: 450px;
+    top: 0px;
+    color: white;
+    text-align: left;
+    
+    
+    
+}
+.twe-button{
+    background-color: rgb(15, 98, 112);
+    border-radius: 40%;
+    height: 50px;
+    width: 170px;
+    border-color: white;
+    color: white;
+    
+    
+
+
+}
+.twe-button:hover{
+    background-color: white;
+    color:rgb(15, 98, 112) ;
+}
+.three{
+    background-color: rgb(2, 58, 58);
+    width: 233px;
+    position: absolute;
+    left: 466px;
+    top: 0px;
+    text-align: center;
+    height: 450px;
+    color: white;
+    text-align: left;
+}
+.three-button{
+    background-color: rgb(2, 58, 58);
+    border-radius: 40%;
+    height: 50px;
+    width: 170px;
+    border-color: white;
+    color: white;
+    }
+.three-button:hover{
+    background-color: white;
+    color: rgb(2, 58, 58);
+}
+p,img,button{
+    margin-left: 28px;
+    margin-top: 40px;
+    
+}
+h2{
+    margin-left: 30px;
+    margin-top: 40px;
+    font-family: 'Stint Ultra Condensed', cursive;
+}
+ 
